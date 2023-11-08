@@ -11,4 +11,6 @@ The exercise consists of creating an image gallery that meets the following requ
   - JavaScript
   - Back-end Web Development
  
+ Note: In this exercise, responsive design was not applied. I will implement it in the near future. 😊
+ 
 🌐 ➟ https://luispardosuarez.github.io/FAQ_HTML-CSS_exercise/
